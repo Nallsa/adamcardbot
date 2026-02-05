@@ -25,3 +25,6 @@ build/
 coverage/
 .nyc_output/
 .cache/
+
+
+"BOT_TOKEN=8096182455:AAEk29xHBtCf0AB4THTsoje4zDG51BH0Qdg" | Set-Content .env.example
